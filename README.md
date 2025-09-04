@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Hero Adventure Game 🗡️🛡️
 
 **Description:**  
@@ -22,3 +23,7 @@ This project was built to practice **basic Python concepts** such as classes, fu
 1. Clone the repository:
 ```bash
 git clone https://github.com/mdouglas-projects/textRPG.py.git
+=======
+# textRPG.py
+It's a Terminal-based adventure game, where you create your hero, explore caves, and fight enemies like Goblins and Skeletons.   This project was built to practice basic Python concepts such as classes, functions, loops, and control flow.
+>>>>>>> 384d0f09858ed0efc33c8b02495098d76e43cf54
